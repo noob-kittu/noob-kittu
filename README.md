@@ -1,7 +1,9 @@
 > For business - **kushal.vstart@gmail.com**
 
 ## Github Stats
-![Kittu's's GitHub stats](https://github-readme-stats.vercel.app/api?username=noob-kittu&show_icons=true&theme=synthwave)
+![Kittu's's GitHub stats](https://github-readme-stats.vercel.app/api?username=noob-kittu&show_icons=true&theme=synthwave) &nbsp;
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noob-kittu&layout=compact&show_icons=true&theme=synthwave)
+
 
 # Activity Graph
 
